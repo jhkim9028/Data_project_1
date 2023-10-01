@@ -26,13 +26,9 @@
 
 ## 프로젝트 발표 자료
 
-![](C:\Users\jhkim\AppData\Roaming\marktext\images\2023-10-01-20-15-35-image.png)
+![](assets/2023-10-01-20-26-36-image.png)
 
-![](C:\Users\jhkim\AppData\Roaming\marktext\images\2023-10-01-20-15-40-image.png)
-
-![](C:\Users\jhkim\AppData\Roaming\marktext\images\2023-10-01-20-15-45-image.png)
-
-![](C:\Users\jhkim\AppData\Roaming\marktext\images\2023-10-01-20-15-50-image.png)
+![](assets/2023-10-01-20-26-41-image.png)![](assets/2023-10-01-20-26-47-image.png)![](assets/2023-10-01-20-26-54-image.png)
 
 ![](assets/2023-10-01-20-16-13-image.png)
 
